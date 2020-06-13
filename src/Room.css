@@ -1,0 +1,22 @@
+.room {
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    vertical-align: middle;
+
+
+}
+
+.lit {
+    color: black;
+    background-color: white;
+
+}
+.dark {
+    color: white;
+    background-color: black;
+}
+ .top {
+     margin-top: 100px;
+ }
